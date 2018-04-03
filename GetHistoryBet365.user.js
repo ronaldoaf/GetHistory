@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GetHistoryBet365
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  Envia as informações sobre as apostas para um endereço onde são concatenadas
 // @author       You
 // @match        https://members.365sport365.com/Members/Services/History/SportsHistory/HistorySearch/*
@@ -11,7 +11,7 @@
 getInfo=function(id,bash){
 	//console.log('https://members.365sport365.com/members/services/History/SportsHistory/GetBetConfirmation?displaymode=desktop&_='+(+new Date())+'&Id='+id+'&BetStatus=0&Bcar=0&Bash='+bash+'&Pebs=0');
 	$.get('https://members.365sport365.com/members/services/History/SportsHistory/GetBetConfirmation?displaymode=desktop&_='+(+new Date())+'&Id='+id+'&BetStatus=0&Bcar=0&Bash='+bash+'&Pebs=0',function(res){
-		var data_hora=$(res).find('.bet-confirmation-details-timeofbet').text().trim().replace('Time of bet: ','');
+		var data_hora=$(res).find('.bet-confirmation-details-timeofbet').text().replace('Time of bet:','').trim();
 		var tipo=$(res).find('.bet-confirmation-table-body-event-bet-type').text().replace('(','').replace(')','');
 		var selecao=$(res).find('.bet-confirmation-table-body-selections').text().trim();
 		var evento=$(res).find('.bet-confirmation-table-body-event').clone().children().remove().end().text().trim();
