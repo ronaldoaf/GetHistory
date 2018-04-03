@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GetHistoryBet365
 // @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @version      0.1.2
 // @description  Envia as informações sobre as apostas para um endereço onde são concatenadas
 // @author       You
 // @match        https://members.365sport365.com/Members/Services/History/SportsHistory/HistorySearch/*
