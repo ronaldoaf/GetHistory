@@ -1,0 +1,370 @@
+17/07/2017 12:39:50,1st Half Asian Handicap,(0-0) Neman Grodno Women 0.0,Neman Grodno Women v Nadezhda Women,1.4,131,183.4
+17/07/2017 08:43:20,1st Half Asian Handicap,(0-0) Persekam Metro FC 0.0,Persekam Metro FC v Celebest FC,1.675,128,128
+17/07/2017 12:44:09,Asian Handicap In-Play,(0-0) Seoul E-Land FC 0.0,Seoul E-Land FC v Suwon City,1.75,134,134
+16/07/2017 19:46:05,Asian Handicap In-Play,(1-0) Barra FC 0.0,Juventus Jaragua Do Sol v Barra FC,1.425,124,176.7
+16/07/2017 23:45:35,Asian Handicap In-Play,(1-2) Union San Felipe 0.0,Union San Felipe v Union Espanola,1.975,128,128
+17/07/2017 09:39:49,1st Half Asian Handicap,(0-0) Sevilla 0.0,Cerezo Osaka v Sevilla,1.4,128,179.2
+16/07/2017 19:41:04,Asian Handicap In-Play,(1-1) Portuguesa RJ 0.0,Portuguesa RJ v URT MG,1.575,124,124
+16/07/2017 07:38:20,1st Half Asian Handicap,(2-2) Shizuoka Sangyo University Women 0.0,Shizuoka Sangyo University Women v Bunnys Kyoto Women,2.2,115,253
+16/07/2017 05:44:49,1st Half Asian Handicap,(0-0) Alamein FC Women 0.0,Alamein FC Women v Bulleen Lions Women,1.35,115,115
+16/07/2017 01:44:19,1st Half Asian Handicap,(0-0) FC Edmonton 0.0,FC Edmonton v NY Cosmos,2.075,115,115
+16/07/2017 01:18:19,1st Half Asian Handicap,(0-0) SoCal FC Women 0.0,SoCal FC Women v LA Villa FC Women,2.2,106,233.2
+15/07/2017 21:38:49,1st Half Asian Handicap,(0-0) CD Colon 0.0,CD Colon v Gualaceo SC,1.75,106,106
+15/07/2017 19:49:35,Asian Handicap In-Play,(1-2) Boavista SC Saquarema 0.0,Boavista SC Saquarema v Espirito Santo FC,1.35,114,0
+15/07/2017 19:37:05,Asian Handicap In-Play,(0-0) Olaria AC 0.0,Olaria AC v Tigres do Brasil,1.65,114,114
+15/07/2017 18:10:04,Asian Handicap In-Play,(0-1) Lierse 0.0,Lierse v Anderlecht,3.1,122,0
+15/07/2017 18:00:35,Asian Handicap In-Play,(1-1) Lucko 0.0,Lucko v Kustosija,1.725,122,122
+15/07/2017 17:44:06,Asian Handicap In-Play,(0-1) Kuban Krasnodar 0.0,Kuban Krasnodar v FK Khimki,1.325,122,122
+15/07/2017 17:17:05,Asian Handicap In-Play,(1-0) FK Luch Minsk 0.0,FK Luch Minsk v FC Lida,1.375,114,114
+15/07/2017 16:33:06,Asian Handicap In-Play,(2-1) Eintracht Braunschweig 0.0,Karlsruher v Eintracht Braunschweig,1.55,80,80
+15/07/2017 17:05:36,Asian Handicap In-Play,(0-1) CS Concordia Chiajna 0.0,CS Concordia Chiajna v ACS Poli Timisoara,1.85,122,122
+15/07/2017 15:46:35,Asian Handicap In-Play,(0-2) Hodd 0.0,Hodd v Vard Haugesund,1.325,57,57
+15/07/2017 15:45:36,Asian Handicap In-Play,(2-0) Alloa 0.0,Ross County v Alloa,3.35,59,59
+15/07/2017 15:36:40,Asian Handicap In-Play,(1-0) GIF Sundsvall 0.0,GIF Sundsvall v Halmstad,1.775,60,60
+15/07/2017 14:36:40,Asian Handicap In-Play,(1-0) Kaisar Kyzylorda 0.0,Kaisar Kyzylorda v FK Atyrau,1.625,72,117
+15/07/2017 15:33:11,Asian Handicap In-Play,(1-0) Peterhead 0.0,Peterhead v East Fife,1.7,42,42
+15/07/2017 14:35:41,Asian Handicap In-Play,(1-1) FC Utrecht 0.0,FC Utrecht v SV Meppen,1.85,72,72
+15/07/2017 15:31:40,Asian Handicap In-Play,(1-1) Sudet 0.0,Sudet v Kultsu FC,1.725,42,42
+15/07/2017 14:35:07,Asian Handicap In-Play,(1-1) Torpedo Minsk 0.0,FC Granit Mikashevichi v Torpedo Minsk,1.6,44,70.4
+15/07/2017 13:36:06,Asian Handicap In-Play,(1-1) SV Heimstetten 0.0,SV Heimstetten v SV Pullach,1.825,117,117
+15/07/2017 11:48:34,Asian Handicap In-Play,(1-3) Arsenal 0.0,Western Sydney Wanderers v Arsenal,1.275,117,117
+15/07/2017 11:25:05,Asian Handicap In-Play,(1-1) Bang Bueng United 0.0,Bang Bueng United v Raj Pracha,1.475,117,117
+15/07/2017 13:11:34,Asian Handicap In-Play,(2-0) Beijing Guoan 0.0,Beijing Guoan v Guizhou Hengfeng Zhicheng,1.4,117,117
+15/07/2017 12:42:35,Asian Handicap In-Play,(0-0) Lamphun Warrior FC 0.0,Lamphun Warrior FC v Kamphaeng Phet,2.075,117,117
+15/07/2017 00:04:20,1st Half Asian Handicap,(2-0) Western Mass Pioneers 0.0,Western Mass Pioneers v Westchester Flames,1.325,115,152.37
+14/07/2017 23:34:49,1st Half Asian Handicap,(1-0) Beaufort County Women 0.0,+0.5,Charleston Fleet Women v Beaufort County Women,1.6,123,0
+14/07/2017 23:27:50,1st Half Asian Handicap,(0-0) Point Fortin FC 0.0,Point Fortin FC v Police FC,2.375,123,123
+14/07/2017 19:54:04,Asian Handicap In-Play,(3-0) Tiverton Town 0.0,Tiverton Town v Torquay,2.375,132,0
+14/07/2017 19:36:04,Asian Handicap In-Play,(2-0) CS U Craiova 0.0,CS U Craiova v CSMS Iasi,1.5,132,132
+14/07/2017 18:23:34,Asian Handicap In-Play,(0-3) ASK Marienthal 0.0,ASK Marienthal v LAC Inter,1.775,125,221.87
+14/07/2017 17:47:05,Asian Handicap In-Play,(1-2) AGF Aarhus 0.0,AGF Aarhus v AC Horsens,1.28,125,125
+14/07/2017 16:37:34,Asian Handicap In-Play,(0-1) AS Etoa Meki 0.0,AS Etoa Meki v Bang Bullet FC,1.925,126,242.55
+14/07/2017 15:04:34,Asian Handicap In-Play,(0-0) Nykobing 0.0,FC Roskilde v Nykobing,2.025,126,126
+14/07/2017 16:48:04,Asian Handicap In-Play,(0-1) FC Tatran Presov U19 0.0,FC Tatran Presov U19 v AS Trencin U19,1.9,126,0
+14/07/2017 13:09:05,Asian Handicap In-Play,(1-0) Jiangsu Suning FC 0.0,Tianjin Teda v Jiangsu Suning FC,1.8,128,230.4
+14/07/2017 14:45:05,Asian Handicap In-Play,(0-1) UiTM 0.0,UiTM v Sabah,1.375,126,126
+14/07/2017 01:51:04,Asian Handicap In-Play,(1-1) FC Cleburne 0.0,FC Cleburne v Houston FC,1.825,119,119
+14/07/2017 13:05:05,Asian Handicap In-Play,(2-0) Tampines Rovers FC 0.0,Balestier Khalsa FC v Tampines Rovers FC,2.15,128,0
+14/07/2017 04:23:35,Asian Handicap In-Play,(2-2) Tulsa Roughnecks 0.0,LA Galaxy II v Tulsa Roughnecks,1.5,128,128
+14/07/2017 00:16:35,Asian Handicap In-Play,(0-1) Flamengo 0.0,Flamengo v Gremio,1.35,115,115
+14/07/2017 01:15:04,Asian Handicap In-Play,(0-1) Orlando City II 0.0,Orlando City II v Tampa Bay Rowdies,1.825,121,220.82
+14/07/2017 01:40:05,Asian Handicap In-Play,(2-0) El Salvador 0.0,El Salvador v Curacao,1.525,128,128
+13/07/2017 20:43:04,Asian Handicap In-Play,(2-3) Ferencvarosi TC 0.0,Ferencvarosi TC v Midtjylland,3.45,123,0
+13/07/2017 22:47:49,1st Half Asian Handicap,(0-0) Nacional Potosi 0.0,Nacional Potosi v Estudiantes LP,1.525,115,115
+14/07/2017 00:14:05,Asian Handicap In-Play,(1-0) Sport Recife 0.0,Sport Recife v Chapecoense,1.775,115,204.12
+13/07/2017 23:58:03,Asian Handicap In-Play,(0-1) SC Corinthians Paulista U20 0.0,SC Corinthians Paulista U20 v Coritiba U20,1.425,115,115
+13/07/2017 20:17:35,Asian Handicap In-Play,(0-1) SK Sturm Graz 0.0,SK Sturm Graz v Mladost Podgorica,1.24,123,123
+13/07/2017 18:12:38,Asian Handicap In-Play,(0-1) Al Nasr Taaden 0.0,Al Nasr Taaden v Smouha,2.5,123,123
+13/07/2017 17:49:04,Asian Handicap In-Play,(1-2) AC Ajaccio 0.0,AS Beziers v AC Ajaccio,1.675,111,185.92
+13/07/2017 17:25:19,1st Half Asian Handicap,(0-0) Ostersunds FK 0.0,Ostersunds FK v Galatasaray,1.775,118,118
+13/07/2017 17:36:35,Asian Handicap In-Play,(0-1) Fyllingsdalen 0.0,Fyllingsdalen v Brann 2,1.825,118,118
+13/07/2017 16:28:19,1st Half Asian Handicap,(0-1) PEPO 0.0,PEPO v FC Legirus Inter,1.7,115,115
+13/07/2017 17:07:19,1st Half Asian Handicap,(0-0) SCR Altach 0.0,SCR Altach v Dinamo Brest,1.35,118,118
+13/07/2017 16:26:19,1st Half Asian Handicap,(0-1) FC Kuressaare 0.0,+0.5,FC Kuressaare v Rakvere JK Tarvas,1.425,115,163.87
+13/07/2017 09:41:05,Asian Handicap In-Play,(0-0) Binh Thuan 0.0,Ben Tre v Binh Thuan,1.575,110,173.25
+13/07/2017 09:32:04,Asian Handicap In-Play,(1-0) Lam Dong 0.0,Lam Dong v Ha Noi FC II,1.375,108,148.5
+13/07/2017 02:29:34,Asian Handicap In-Play,(0-2) Palmeiras 0.0,Palmeiras v Corinthians,1.425,115,115
+13/07/2017 02:23:34,Asian Handicap In-Play,(0-1) Atletico Paranaense 0.0,Atletico Paranaense v Cruzeiro,1.65,107,0
+13/07/2017 02:20:04,Asian Handicap In-Play,(1-1) Olimpia Asuncion 0.0,Nacional Asuncion v Olimpia Asuncion,1.5,115,115
+13/07/2017 02:19:34,Asian Handicap In-Play,(1-0) Deportivo Pasto 0.0,Independiente Medellin v Deportivo Pasto,2.2,115,115
+12/07/2017 23:07:20,1st Half Asian Handicap,(0-0) Atletico Mineiro 0.0,Atletico Mineiro v Santos,1.375,115,115
+12/07/2017 15:30:42,1st Half Asian Handicap,(2-0) FK Iskra Danilovgrad 0.0,Rad Belgrade v FK Iskra Danilovgrad,2.15,156,156
+11/07/2017 09:40:58,Asian Handicap In-Play,(6-0) FK Temnic 0.0,+0.5,Radnicki Nis v FK Temnic,1.8,140,196
+12/07/2017 09:29:12,1st Half Asian Handicap,(0-1) FC Vlasim 0.0,FC Vlasim v Viktoria Zizkov,1.775,156,156
+11/07/2017 22:54:12,1st Half Asian Handicap,(3-1) ABC 0.0,Londrina v ABC,2.3,156,156
+11/07/2017 16:29:42,1st Half Asian Handicap,(0-0) Spartak Trnava 0.0,FC Nitra v Spartak Trnava,1.8,145,261
+10/07/2017 20:47:58,Asian Handicap In-Play,(0-0) Selfoss Women 0.0,Throttur Reykjavik Women v Selfoss Women,1.575,140,140
+10/07/2017 14:41:12,1st Half Asian Handicap,(0-0) Vorskla Poltava U21 0.0,Vorskla Poltava U21 v FK Sumy,1.975,154,0
+06/07/2017 22:56:13,1st Half Asian Handicap,(0-1) The Strongest 0.0,The Strongest v Lanus,1.275,154,154
+06/07/2017 16:31:42,1st Half Asian Handicap,(0-0) KR Reykjavik 0.0,SJK v KR Reykjavik,1.875,154,154
+06/07/2017 08:57:42,1st Half Asian Handicap,(1-0) Lam Dong 0.0,Viettel FC II v Lam Dong,1.45,154,154
+06/07/2017 00:14:43,1st Half Asian Handicap,(0-1) FC Lehigh Valley United 0.0,+0.5,FC Lehigh Valley United v Reading United,1.375,170,0
+05/07/2017 16:27:42,1st Half Asian Handicap,(0-0) HJS Akatemia 0.0,TPV/2 v HJS Akatemia,1.325,170,170
+05/07/2017 09:43:58,Asian Handicap In-Play,(1-0) Changchun FC Women 0.0,Changchun FC Women v Hebei Ticai Women,1.375,164,225.5
+02/07/2017 19:29:28,Asian Handicap In-Play,(1-2) Centro Olimpico Women 0.0,+0.5,Centro Olimpico Women v Portuguesa Desportos Women,1.5,164,246
+03/07/2017 23:39:42,1st Half Asian Handicap,(1-1) Fluminense 0.0,Fluminense v Chapecoense,1.525,184,0
+04/07/2017 22:45:12,1st Half Asian Handicap,(0-0) Paysandu 0.0,Paysandu v Londrina,1.525,180,0
+04/07/2017 13:31:58,Asian Handicap In-Play,(0-2) FC Schaffhausen 0.0,Grasshoppers v FC Schaffhausen,1.875,167,313.12
+03/07/2017 14:39:28,Asian Handicap In-Play,(0-2) FK Lada Tolyatti 0.0,FK Lada Tolyatti v FK Volga Ulyanovsk,1.8,171,307.8
+02/07/2017 05:41:12,1st Half Asian Handicap,(1-0) SWQ Thunder 0.0,SWQ Thunder v Brisbane Roar FC U21,1.9,155,155
+01/07/2017 09:31:42,1st Half Asian Handicap,(0-0) Bonnyrigg White Eagles 0.0,Bonnyrigg White Eagles v Hakoah Sydney City East,1.65,148,148
+02/07/2017 12:31:28,Asian Handicap In-Play,(0-1) Sisaket FC 0.0,Sisaket FC v Police Tero FC,1.65,155,255.75
+01/07/2017 21:39:58,Asian Handicap In-Play,(0-0) Inter de Limeira 0.0,Inter de Limeira v Audax SP,1.875,155,155
+01/07/2017 09:32:12,1st Half Asian Handicap,(0-0) JEF Utd Chiba 0.0,JEF Utd Chiba v Oita,1.5,148,222
+01/07/2017 03:22:42,1st Half Asian Handicap,(0-0) Reno 1868 FC 0.0,Reno 1868 FC v Phoenix Rising FC,1.4,148,148
+30/06/2017 19:34:28,Asian Handicap In-Play,(0-1) Paulista U20 0.0,Paulista U20 v Guarani SP U20,1.85,148,148
+29/06/2017 19:41:43,1st Half Asian Handicap,(0-0) KR Reykjavik 0.0,KR Reykjavik v SJK,1.35,151,151
+30/06/2017 01:44:58,Asian Handicap In-Play,(1-3) Jorge Wilstermann 0.0,Jorge Wilstermann v Petrolero Yacuiba,1.35,151,151
+30/06/2017 12:01:28,Asian Handicap In-Play,(0-1) Westside 0.0,Westside v Newmarket,1.85,138,255.3
+30/06/2017 10:27:45,1st Half Asian Handicap,(0-0) Icheon Daekyo Women 0.0,Icheon Daekyo Women v Gumi Sportstoto Women,1.4,151,0
+28/06/2017 20:40:58,Asian Handicap In-Play,(1-0) Vasco Da Gama U20 0.0,Vitoria Salvador U20 v Vasco Da Gama U20,1.475,140,206.5
+29/06/2017 10:37:42,1st Half Asian Handicap,(0-0) Slask Wroclaw 0.0,Slask Wroclaw v GKS Katowice,1.375,146,200.75
+27/06/2017 22:52:28,Asian Handicap In-Play,(0-2) Newell's 0.0,Newell's v Godoy Cruz,1.475,140,140
+26/06/2017 23:41:12,1st Half Asian Handicap,(0-0) Huracan 0.0,Huracan v Belgrano,1.425,154,154
+27/06/2017 15:32:13,1st Half Asian Handicap,(0-0) CSKA Moscow Women 0.0,Ryazan VDV Women v CSKA Moscow Women,1.775,154,0
+27/06/2017 09:32:12,1st Half Asian Handicap,(0-0) Mazowiecki 0.0,Mazowiecki v Malopolski,1.55,154,154
+26/06/2017 10:26:45,1st Half Asian Handicap,(0-0) Incheon Red Angels Women 0.0,Incheon Red Angels Women v Hwacheon KSPO Women,1.275,154,154
+26/06/2017 08:59:43,1st Half Asian Handicap,(0-0) Viettel FC II 0.0,Viettel FC II v TTBD Phu Dong,1.23,154,154
+26/06/2017 03:24:28,Asian Handicap In-Play,(2-3) Sacramento Republic 0.0,LA Galaxy II v Sacramento Republic,1.6,154,154
+25/06/2017 16:31:48,1st Half Asian Handicap,(0-0) FK Gorodeya 0.0,FK Gorodeya v Dinamo Brest,1.7,154,154
+25/06/2017 09:29:12,1st Half Asian Handicap,(0-0) Matsumoto Y FC 0.0,Matsumoto Y FC v Fagiano Okayama,1.475,142,209.45
+25/06/2017 10:04:42,1st Half Asian Handicap,(0-0) Alaves B 0.0,Alaves B v Ontinyent,1.45,148,214.6
+25/06/2017 00:40:42,1st Half Asian Handicap,(0-0) Independiente Santa Fe Women 0.0,Independiente Santa Fe Women v Atletico Huila Women,1.325,142,142
+24/06/2017 11:41:01,Asian Handicap In-Play,(1-2) Gwangju FC 0.0,Gwangju FC v Jeonnam Dragons,1.675,142,142
+25/06/2017 00:34:28,Asian Handicap In-Play,(0-0) Tupi 0.0,Tupi v Botafogo SP,2.05,142,142
+24/06/2017 05:39:42,1st Half Asian Handicap,(1-0) Joondalup United U20 0.0,Joondalup United U20 v Balcatta U20,1.65,156,0
+23/06/2017 09:02:12,1st Half Asian Handicap,(0-0) Luch Energiya 0.0,Dnepr Mogilev v Luch Energiya,2.35,139,326.65
+23/06/2017 16:40:58,Asian Handicap In-Play,(1-1) FC Blau Weiss Linz 0.0,St Polten v FC Blau Weiss Linz,2.1,156,156
+23/06/2017 22:46:42,1st Half Asian Handicap,(0-1) CRB 0.0,CRB v Paysandu,1.5,156,156
+22/06/2017 17:42:28,Asian Handicap In-Play,(0-2) Mo 0.0,Mo v Molde 2,1.775,139,139
+18/06/2017 11:37:58,Asian Handicap In-Play,(0-2) Alcobendas Sport 0.0,Alcobendas Sport v CF Lorca Deportiva,1.575,132,207.9
+22/06/2017 11:40:42,1st Half Asian Handicap,(0-0) Orebro SK 0.0,Sirius v Orebro SK,2,139,139
+18/06/2017 00:29:46,1st Half Asian Handicap,(0-0) Monagas 0.0,Monagas v Carabobo,1.75,132,132
+17/06/2017 18:27:13,1st Half Asian Handicap,(0-0) Paulista U20 0.0,Paulista U20 v Corinthians U20,2.075,146,146
+17/06/2017 18:27:43,1st Half Asian Handicap,(0-0) Red Bull Brasil U20 0.0,Bragantino U20 v Red Bull Brasil U20,1.7,145,0
+17/06/2017 12:24:47,1st Half Asian Handicap,(0-0) RoPS 0.0,RoPS v FC Inter,2.05,146,146
+17/06/2017 05:28:42,1st Half Asian Handicap,(1-1) Sorrento U20 0.0,Sorrento U20 v Armadale U20,1.85,146,146
+16/06/2017 23:09:12,1st Half Asian Handicap,(0-0) Knoxville Force Women 0.0,Knoxville Force Women v Alabama FC Women,1.675,146,146
+16/06/2017 15:38:58,Asian Handicap In-Play,(0-0) Huracan Reserves 0.0,Huracan Reserves v Union Santa Fe Reserves,1.575,146,146
+15/06/2017 20:47:58,Asian Handicap In-Play,(1-1) Sampaio Correa 0.0,Sampaio Correa v Cordino EC,1.3,142,184.6
+16/06/2017 09:22:28,Asian Handicap In-Play,(2-1) Eastern Suburbs Women 0.0,Western Springs Women v Eastern Suburbs Women,1.75,146,146
+14/06/2017 23:06:42,1st Half Asian Handicap,(0-0) Atletico Mineiro 0.0,Atletico Mineiro v Atletico Paranaense,1.325,142,142
+13/06/2017 09:02:12,1st Half Asian Handicap,(0-0) Karlova Ves U19 0.0,Karlova Ves U19 v Dubnica U19,1.45,142,142
+12/06/2017 17:28:12,1st Half Asian Handicap,(0-1) Kristianstad FC 0.0,+0.5,Mjallby AIF v Kristianstad FC,1.55,138,175.95
+13/06/2017 01:47:58,Asian Handicap In-Play,(1-0) W Connection FC 0.0,W Connection FC v St. Ann's Rangers,1.275,142,142
+12/06/2017 02:29:57,Asian Handicap In-Play,(0-0) UWI Blackbirds 0.0,Porey Springs v UWI Blackbirds,1.35,138,138
+12/06/2017 01:16:27,Asian Handicap In-Play,(1-3) Real Potosi 0.0,Real Potosi v The Strongest,2,138,138
+11/06/2017 22:42:13,1st Half Asian Handicap,(0-0) Sol de America 0.0,Sol de America v Club General Diaz,1.575,137,137
+11/06/2017 22:38:13,1st Half Asian Handicap,(0-0) Tunisia 0.0,Tunisia v Egypt,1.6,137,137
+11/06/2017 22:33:13,1st Half Asian Handicap,(1-1) Western Mass Pioneers 0.0,GPS Portland Phoenix v Western Mass Pioneers,1.9,138,138
+11/06/2017 21:11:42,1st Half Asian Handicap,(1-1) Sport Boys 0.0,Sport Boys v Defensor La Bocana,1.35,147,198.45
+11/06/2017 22:13:27,Asian Handicap In-Play,(4-1) Defensor La Bocana 0.0,+0.5,Sport Boys v Defensor La Bocana,1.6,152,0
+11/06/2017 20:41:28,Asian Handicap In-Play,(3-1) Sao Paulo 0.0,Corinthians v Sao Paulo,1.975,135,266.62
+11/06/2017 20:31:31,Asian Handicap In-Play,(1-0) Iceland 0.0,Iceland v Croatia,3.5,135,135
+11/06/2017 19:39:28,Asian Handicap In-Play,(0-0) US Ouakam 0.0,US Ouakam v Casa Sport,1.725,135,135
+11/06/2017 20:28:18,1st Half Asian Handicap,(0-0) FBC Melgar 0.0,FBC Melgar v Alianza Lima,1.475,135,135
+11/06/2017 19:36:58,Asian Handicap In-Play,(2-0) Texas Titans Women 0.0,Houston South Select Women v Texas Titans Women,1.55,135,135
+11/06/2017 19:16:45,1st Half Asian Handicap,(0-0) Serbia 0.0,Serbia v Wales,1.375,120,0
+11/06/2017 19:01:42,1st Half Asian Handicap,(0-0) Argentino Merlo 0.0,Argentino Merlo v Defensores Unidos,1.7,146,146
+11/06/2017 19:07:12,1st Half Asian Handicap,(0-1) Avenida 0.0,Avenida v Sao Luiz,1.3,146,146
+11/06/2017 16:41:58,Asian Handicap In-Play,(3-0) FK Ujezd Nad Lesy 0.0,FK Ujezd Nad Lesy v CAFC,2.025,98,98
+11/06/2017 18:43:12,1st Half Asian Handicap,(1-0) Danubio 0.0,Cerro v Danubio,1.26,146,146
+11/06/2017 16:37:28,Asian Handicap In-Play,(1-0) SK Milenium 0.0,SK Milenium v Slovan Sabinov,1.65,99,99
+11/06/2017 17:46:03,Asian Handicap In-Play,(3-1) Mjondalen 0.0,Mjondalen v Ullensaker/Kisa,1.475,146,146
+11/06/2017 16:36:42,1st Half Asian Handicap,(1-1) Fyllingsdalen 0.0,Fyllingsdalen v Aalesunds FK 2,1.45,108,108
+11/06/2017 16:26:42,1st Half Asian Handicap,(0-0) Sandnes Ulf 0.0,Sandnes Ulf v Ranheim,1.6,138,220.8
+11/06/2017 16:29:42,1st Half Asian Handicap,(0-0) Rep of Ireland 0.0,Rep of Ireland v Austria,1.675,137,0
+11/06/2017 15:41:42,1st Half Asian Handicap,(0-0) MFK Zarnovica 0.0,MFK Detva v MFK Zarnovica,1.575,115,0
+11/06/2017 15:40:42,1st Half Asian Handicap,(2-0) Visnova 0.0,Visnova v OSS Lomnice,1.425,115,115
+11/06/2017 14:49:57,Asian Handicap In-Play,(3-0) Zimbabwe 0.0,Zimbabwe v Liberia,1.24,162,162
+11/06/2017 15:22:42,1st Half Asian Handicap,(0-0) SK Milenium 0.0,SK Milenium v Slovan Sabinov,1.575,126,126
+11/06/2017 14:40:13,1st Half Asian Handicap,(1-1) Ljungskile 0.0,Ljungskile v FC Rosengard,1.325,161,161
+11/06/2017 14:38:58,Asian Handicap In-Play,(1-1) Uniao Mogi 0.0,Uniao Mogi v Jabaquara SP,1.65,161,161
+11/06/2017 14:06:43,1st Half Asian Handicap,(1-0) Bodo/Glimt 0.0,Bodo/Glimt v FK Jerv,1.45,155,224.75
+11/06/2017 13:43:13,1st Half Asian Handicap,(0-0) IK Tord 0.0,IK Tord v IFK Motala FK,1.3,151,196.3
+11/06/2017 10:36:43,1st Half Asian Handicap,(0-0) Gyeongnam FC 0.0,Ansan Greeners FC v Gyeongnam FC,1.425,151,151
+11/06/2017 09:42:58,Asian Handicap In-Play,(0-3) Sichuan Longfor 0.0,Zhenjiang Huasa v Sichuan Longfor,1.325,151,151
+11/06/2017 10:29:13,1st Half Asian Handicap,(0-0) Portugal Women 0.0,Portugal Women v Wales Women,1.35,151,151
+11/06/2017 01:18:28,Asian Handicap In-Play,(1-3) Puerto Rico FC 0.0,Puerto Rico FC v San Francisco Deltas,1.525,151,151
+11/06/2017 04:33:58,Asian Handicap In-Play,(1-1) JFA Academy Women 0.0,Fukuoka J Anclas Women v JFA Academy Women,2.2,151,151
+11/06/2017 04:31:43,1st Half Asian Handicap,(0-1) Urayasu SC 0.0,Urayasu SC v Veertien Mie,1.875,151,151
+10/06/2017 23:42:27,Asian Handicap In-Play,(2-2) ABC 0.0,ABC v Figueirense,1.475,138,138
+10/06/2017 23:49:58,Asian Handicap In-Play,(4-0) FC Miami City 0.0,FC Miami City v Palm Beach Suns FC,1.17,139,139
+10/06/2017 23:39:13,1st Half Asian Handicap,(0-2) Evergreen FC 0.0,Evergreen FC v FC Lehigh Valley United,1.75,151,151
+10/06/2017 21:41:43,1st Half Asian Handicap,(0-0) CD Coopsol 0.0,Willy Serrato v CD Coopsol,2.15,160,0
+10/06/2017 22:34:43,1st Half Asian Handicap,(1-2) ABC 0.0,ABC v Figueirense,1.45,146,146
+10/06/2017 21:38:28,Asian Handicap In-Play,(0-0) Ituano 0.0,Ituano v CA Metropolitano,1.275,160,160
+10/06/2017 22:36:43,1st Half Asian Handicap,(0-2) St Louis Lions 0.0,+0.5,St Louis Lions v Chicago FC United,1.4,146,204.4
+10/06/2017 20:53:42,1st Half Asian Handicap,(0-1) Sport Rosario Reserves 0.0,Sport Rosario Reserves v Comerciantes Unidos Reserves,1.625,160,160
+10/06/2017 20:19:33,Asian Handicap In-Play,(1-1) Norway 0.0,Norway v Czech Republic,1.875,146,146
+10/06/2017 20:11:12,1st Half Asian Handicap,(0-1) Brasil de Pelotas 0.0,Brasil de Pelotas v Ceara,1.55,160,160
+10/06/2017 19:40:58,Asian Handicap In-Play,(1-0) CA Votuporanguense U20 0.0,+0.5,CA Votuporanguense U20 v Marilia U20,1.25,143,160.87
+10/06/2017 19:45:58,Asian Handicap In-Play,(2-1) SC Corinthians Paulista U20 0.0,SC Corinthians Paulista U20 v Sao Jose Dos Campos U20,1.24,157,157
+10/06/2017 19:37:43,1st Half Asian Handicap,(1-1) Palmeiras 0.0,Palmeiras v Fluminense,1.375,152,209
+10/06/2017 19:37:13,1st Half Asian Handicap,(0-0) Anapolis FC 0.0,Anapolis FC v Sinop FC,1.425,152,152
+10/06/2017 19:36:28,Asian Handicap In-Play,(0-2) Boavista RJ 0.0,Boavista RJ v RB Brasil,1.55,154,154
+10/06/2017 19:36:58,Asian Handicap In-Play,(1-2) Velo Clube U20 0.0,Velo Clube U20 v Independente U20,2.15,153,153
+10/06/2017 19:09:13,1st Half Asian Handicap,(2-0) Deportivo Laferrere 0.0,JJ Urquiza v Deportivo Laferrere,2.425,155,0
+10/06/2017 19:45:28,Asian Handicap In-Play,(1-2) Botafogo SP U20 0.0,Botafogo SP U20 v Noroeste U20,1.375,157,157
+10/06/2017 18:10:43,1st Half Asian Handicap,(0-0) Independiente del Valle Reserves 0.0,Independiente del Valle Reserves v LDU Quito Reserves,1.575,155,155
+10/06/2017 19:03:58,Asian Handicap In-Play,(1-1) Ayacucho FC 0.0,Ayacucho FC v Real Garcilaso,1.875,155,290.62
+10/06/2017 16:46:12,1st Half Asian Handicap,(1-0) FK Luch Minsk 0.0,FK Luch Minsk v FC Slonim,1.21,167,167
+10/06/2017 16:37:02,Asian Handicap In-Play,(0-0) Renate U19 0.0,Renate U19 v Livorno U19,2.15,157,0
+10/06/2017 16:34:27,Asian Handicap In-Play,(1-0) Nove Straseci 0.0,Nove Straseci v Mnichovohradistsky SK,1.8,152,273.6
+10/06/2017 15:50:57,Asian Handicap In-Play,(1-1) Belarus Women 0.0,Belarus Women v Estonia Women,1.22,154,154
+10/06/2017 16:34:12,1st Half Asian Handicap,(0-0) JS Kabylie 0.0,JS Kabylie v USM Bel Abbes,1.35,153,206.55
+10/06/2017 16:32:57,Asian Handicap In-Play,(0-1) ASK Horitschon 0.0,ASK Horitschon v SC Pinkafeld,1.625,154,154
+10/06/2017 16:06:12,1st Half Asian Handicap,(1-1) Bystrice pH 0.0,Bystrice pH v SK Borsice,1.425,154,154
+10/06/2017 15:32:42,1st Half Asian Handicap,(0-0) Banik Horna Nitra 0.0,Banik Horna Nitra v SK 1923 Gabcikovo,1.425,125,178.12
+10/06/2017 15:36:12,1st Half Asian Handicap,(0-0) ASK Horitschon 0.0,ASK Horitschon v SC Pinkafeld,1.6,129,0
+10/06/2017 15:30:13,1st Half Asian Handicap,(0-0) Nove Straseci 0.0,Nove Straseci v Mnichovohradistsky SK,1.825,129,129
+10/06/2017 14:31:43,1st Half Asian Handicap,(0-0) General Caballero 0.0,General Caballero v 3 de Febrero,2.15,135,135
+10/06/2017 14:27:43,1st Half Asian Handicap,(0-0) ISS Admira 0.0,ISS Admira v SV Gerasdorf Stammersdorf,2.075,124,257.3
+10/06/2017 13:42:27,Asian Handicap In-Play,(3-0) KSF Prespa Birlik 0.0,KSF Prespa Birlik v Vimmerby,1.375,93,127.87
+10/06/2017 13:35:43,1st Half Asian Handicap,(0-0) Bronshoj BK 0.0,Bronshoj BK v Aarhus Fremad,1.375,111,111
+10/06/2017 13:29:43,1st Half Asian Handicap,(1-0) B93 Copenhagen 0.0,B93 Copenhagen v Kjellerup IF,1.575,127,200.02
+10/06/2017 13:29:13,1st Half Asian Handicap,(0-1) Fredensborg 0.0,Fredensborg v FC Sydvest,2.425,127,127
+10/06/2017 10:46:58,Asian Handicap In-Play,(0-0) FK Senica U19 0.0,FK Senica U19 v Partizan Bardejov U19,1.55,151,0
+10/06/2017 12:09:13,1st Half Asian Handicap,(0-0) Meizhou Meixian Techand 0.0,Meizhou Meixian Techand v Jiangxi Liansheng,1.65,139,139
+10/06/2017 10:38:34,Asian Handicap In-Play,(2-4) Slovacko U19 0.0,Slovacko U19 v Opava U19,1.925,128,246.4
+10/06/2017 10:35:28,Asian Handicap In-Play,(1-1) MFK Ruzomberok U19 0.0,MFK Ruzomberok U19 v Dukla Banska Bystrica U19,1.475,124,182.9
+10/06/2017 10:33:12,1st Half Asian Handicap,(0-0) Spartak 0.0,Spartak v PPJ,2.1,124,260.4
+10/06/2017 14:39:28,Asian Handicap In-Play,(0-3) Dolni Benesov 0.0,Dolni Benesov v Jiskra Rymarov,2.375,135,135
+10/06/2017 09:28:13,1st Half Asian Handicap,(0-0) Mlada Boleslav U19 0.0,Mlada Boleslav U19 v Sparta Prague U19,2.05,136,0
+10/06/2017 09:58:57,Asian Handicap In-Play,(0-0) FC Slavia HK 0.0,FC Slavia HK v FK Chlumec N.C,1.525,124,124
+10/06/2017 08:36:43,1st Half Asian Handicap,(0-0) Baoding Yingli 0.0,Baoding Yingli v Zhejiang Yiteng FC,1.675,135,135
+10/06/2017 08:34:27,Asian Handicap In-Play,(0-1) Tokushima Vortis 0.0,Tokushima Vortis v Shonan Bellmare,1.85,136,136
+10/06/2017 08:34:13,1st Half Asian Handicap,(1-1) Bayside United 0.0,Bayside United v North Pine,2.1,136,136
+10/06/2017 07:46:58,Asian Handicap In-Play,(3-0) Acacia Ridge Reserves 0.0,Brisbane Knights Reserves v Acacia Ridge Reserves,1.85,123,123
+10/06/2017 07:42:43,1st Half Asian Handicap,(0-0) Tokushima Vortis 0.0,Tokushima Vortis v Shonan Bellmare,1.975,150,150
+10/06/2017 05:38:57,Asian Handicap In-Play,(0-0) Avispa Fukuoka 0.0,JEF Utd Chiba v Avispa Fukuoka,1.725,145,145
+10/06/2017 07:38:43,1st Half Asian Handicap,(0-0) Green Gully 0.0,Green Gully v Port Melbourne SC,1.375,150,0
+10/06/2017 05:33:13,1st Half Asian Handicap,(0-0) Balcatta U20 0.0,+0.5,Balcatta U20 v Armadale U20,1.375,145,199.37
+10/06/2017 02:32:12,1st Half Asian Handicap,(1-0) Burlingame Dragons FC 0.0,Burlingame Dragons FC v Southern California Seahorses,1.425,159,159
+10/06/2017 03:31:28,Asian Handicap In-Play,(0-3) Lambton Jaffas 0.0,Lambton Jaffas v Edgeworth Eagles,2.025,159,0
+10/06/2017 02:13:28,Asian Handicap In-Play,(0-1) Paysandu 0.0,Paysandu v Goias,1.425,159,159
+10/06/2017 01:56:27,Asian Handicap In-Play,(3-1) Sioux Falls Thunder FC 0.0,Minneapolis City SC v Sioux Falls Thunder FC,1.925,159,159
+10/06/2017 01:09:57,Asian Handicap In-Play,(0-3) Santa Cruz FC 0.0,Santa Cruz FC v Londrina,1.525,152,231.8
+09/06/2017 19:46:27,Asian Handicap In-Play,(2-0) Scotland Women 0.0,Scotland Women v Romania Women,1.275,152,152
+09/06/2017 19:17:57,Asian Handicap In-Play,(2-1) Team Wiener Linien 0.0,Team Wiener Linien v Favoritner AC,1.375,152,152
+09/06/2017 18:11:57,Asian Handicap In-Play,(0-1) Holland Women 0.0,Holland Women v Japan Women,1.7,152,152
+09/06/2017 17:43:57,Asian Handicap In-Play,(1-0) Slovakia Women 0.0,Slovakia Women v Greece Women,1.3,152,152
+09/06/2017 17:38:57,Asian Handicap In-Play,(2-1) Croatia Women 0.0,Croatia Women v Bosnia-Herzegovina Women,1.425,152,152
+09/06/2017 17:05:13,1st Half Asian Handicap,(0-0) Grieskirchen 0.0,Grieskirchen v Sturm Graz II,1.9,152,152
+09/06/2017 17:01:28,Asian Handicap In-Play,(0-0) FC Villiketut 0.0,FC Villiketut v OTP,1.625,138,138
+09/06/2017 16:05:42,1st Half Asian Handicap,(0-0) Ebusua Dwarfs 0.0,Ebusua Dwarfs v Bechem FC,1.575,152,152
+09/06/2017 15:31:43,1st Half Asian Handicap,(0-0) Medeama SC 0.0,Medeama SC v Ashanti Gold,1.425,167,0
+09/06/2017 16:54:12,1st Half Asian Handicap,(0-0) LKS Lodz 0.0,LKS Lodz v LKS Lomza,1.21,152,152
+08/06/2017 23:07:17,1st Half Asian Handicap,(0-0) SC Corinthians Paulista Women 0.0,SC Corinthians Paulista Women v Santos FC Women,1.475,167,167
+08/06/2017 18:12:39,Asian Handicap In-Play,(3-1) Follo U19 0.0,Follo U19 v Fredrikstad FK U19,1.35,167,167
+08/06/2017 16:40:42,1st Half Asian Handicap,(0-0) Russia Women 0.0,Russia Women v Serbia Women,1.4,166,166
+08/06/2017 16:28:12,1st Half Asian Handicap,(0-0) Tampereen Ilves 2 0.0,Tampereen Ilves 2 v TP-T,1.725,157,270.82
+08/06/2017 15:30:42,1st Half Asian Handicap,(0-0) Portugal Women 0.0,Portugal Women v Wales Women,1.525,172,0
+08/06/2017 15:28:42,1st Half Asian Handicap,(0-0) N Ireland U21 0.0,Estonia U21 v N Ireland U21,1.425,172,172
+08/06/2017 13:38:13,1st Half Asian Handicap,(2-0) FK Poprad U19 0.0,FK Poprad U19 v FK Spisska NV U19,1.5,172,172
+08/06/2017 01:45:58,Asian Handicap In-Play,(0-1) Jersey Express SC 0.0,Jersey Express SC v Ocean City Nor'easters,1.975,208,0
+08/06/2017 00:46:58,Asian Handicap In-Play,(2-4) Braddock Road Stars Elite Women 0.0,Braddock Road Stars Elite Women v Virginia Beach City Women,1.8,208,208
+08/06/2017 12:37:13,1st Half Asian Handicap,(0-1) Slovenia U21 0.0,Slovenia U21 v Montenegro U21,1.625,189,0
+07/06/2017 23:31:42,1st Half Asian Handicap,(0-1) Braddock Road Stars Elite Women 0.0,Braddock Road Stars Elite Women v Virginia Beach City Women,1.75,195,341.25
+08/06/2017 00:05:43,1st Half Asian Handicap,(0-0) Louisville City FC 0.0,Louisville City FC v Charlotte Independence,1.35,208,208
+07/06/2017 22:06:12,1st Half Asian Handicap,(0-0) JS Saoura 0.0,JS Saoura v MC Oran,1.425,195,195
+07/06/2017 20:46:58,Asian Handicap In-Play,(2-0) Keflavik 0.0,Keflavik v Haukar,1.6,185,296
+07/06/2017 19:40:28,Asian Handicap In-Play,(0-1) Serra Macaense 0.0,+0.5,Serra Macaense v Audax Rio,1.575,176,277.2
+07/06/2017 18:38:13,1st Half Asian Handicap,(0-0) Ponte Preta Women 0.0,Ponte Preta Women v Audax SP Women,1.65,166,273.9
+07/06/2017 16:49:28,Asian Handicap In-Play,(0-0) Shooting Stars 0.0,Shooting Stars v Kano Pillars,1.24,165,165
+07/06/2017 16:36:43,1st Half Asian Handicap,(0-0) DRB Tadjenant 0.0,DRB Tadjenant v NA Hussein Dey,1.35,162,162
+07/06/2017 16:15:57,Asian Handicap In-Play,(4-0) Germany U19 Women 0.0,Germany U19 Women v Iceland U19 Women,1.35,148,148
+07/06/2017 15:38:12,1st Half Asian Handicap,(0-0) APEJES Academy 0.0,APEJES Academy v Coton S de Garoua,1.825,148,148
+07/06/2017 16:31:13,1st Half Asian Handicap,(0-0) Raba Dobczyce 0.0,Raba Dobczyce v Unia Oswiecim,2.35,148,347.8
+07/06/2017 13:43:43,1st Half Asian Handicap,(0-1) Barracas Central Reserves 0.0,Barracas Central Reserves v Almirante Brown Reserves,1.9,148,148
+07/06/2017 02:02:27,Asian Handicap In-Play,(0-1) Luverdense 0.0,Luverdense v Vila Nova,1.85,150,277.5
+07/06/2017 14:03:57,Asian Handicap In-Play,(0-1) AS Etoa Meki 0.0,AS Etoa Meki v AS Matelots,2.425,148,148
+07/06/2017 01:02:58,Asian Handicap In-Play,(1-1) Figueirense 0.0,Figueirense v Internacional,2.425,165,0
+07/06/2017 18:33:43,1st Half Asian Handicap,(1-0) Londrina U19 0.0,Apucarana SC U19 v Londrina U19,1.5,166,166
+07/06/2017 16:37:13,1st Half Asian Handicap,(0-0) FCJ Blackbird 0.0,FCJ Blackbird v JPS,1.4,161,161
+07/06/2017 02:12:28,Asian Handicap In-Play,(0-0) CRB 0.0,CRB v Brasil de Pelotas,1.525,150,0
+06/06/2017 14:49:58,Asian Handicap In-Play,(2-1) Racing Club Reserves 0.0,Racing Club Reserves v CA Aldosivi Reserves,1.325,181,181
+05/06/2017 22:31:43,1st Half Asian Handicap,(0-0) Quilmes 0.0,Quilmes v Patronato Parana,1.6,191,0
+05/06/2017 19:01:42,1st Half Asian Handicap,(0-0) CA Atlas 0.0,Yupanqui v CA Atlas,1.525,172,172
+06/06/2017 13:44:57,Asian Handicap In-Play,(0-0) Finland U21 0.0,Finland U21 v Slovenia U21,1.475,174,256.65
+05/06/2017 20:59:57,Asian Handicap In-Play,(1-3) IA Akranes 0.0,IA Akranes v Breidablik,2.25,172,387
+05/06/2017 18:20:28,Asian Handicap In-Play,(0-0) Djoliba AC 0.0,AS Olympique de Missira v Djoliba AC,1.6,172,172
+05/06/2017 17:45:57,Asian Handicap In-Play,(1-3) Sotra 0.0,Sotra v Brann 2,1.7,172,172
+05/06/2017 15:40:58,Asian Handicap In-Play,(1-1) Greuther Furth II 0.0,Greuther Furth II v FC Pipinsried,1.525,172,172
+05/06/2017 16:12:13,1st Half Asian Handicap,(3-2) KTP 0.0,KTP v FC Legirus Inter,2.15,172,172
+05/06/2017 14:38:12,1st Half Asian Handicap,(0-0) Greuther Furth II 0.0,Greuther Furth II v FC Pipinsried,1.575,172,172
+05/06/2017 13:40:28,Asian Handicap In-Play,(1-1) Molde 2 0.0,Molde 2 v Junkeren,2.1,189,0
+05/06/2017 12:32:01,Asian Handicap In-Play,(0-1) Mexico U20 0.0,Mexico U20 v England U20,1.675,189,189
+05/06/2017 02:10:27,Asian Handicap In-Play,(2-1) Independiente Medellin 0.0,Independiente Medellin v Deportivo Cali,1.6,179,286.4
+05/06/2017 10:27:46,1st Half Asian Handicap,(0-0) Asan Mugunghwa FC 0.0,Asan Mugunghwa FC v Seoul E-Land FC,1.475,189,189
+06/06/2017 15:07:43,1st Half Asian Handicap,(0-0) HauPa 0.0,OPS Akatemia v HauPa,1.525,181,0
+04/06/2017 21:52:27,Asian Handicap In-Play,(1-2) Bauger FC 0.0,Bauger FC v Atlantico FC,1.5,207,0
+04/06/2017 21:39:57,Asian Handicap In-Play,(1-2) Atletico San Cristobal 0.0,Atletico San Cristobal v Cibao FC,1.9,192,192
+04/06/2017 21:35:43,1st Half Asian Handicap,(1-0) Botafogo SP 0.0,Botafogo SP v Joinville,1.375,193,193
+04/06/2017 20:31:57,Asian Handicap In-Play,(1-0) Atalanta U19 0.0,Fiorentina U19 v Atalanta U19,1.675,193,193
+04/06/2017 21:09:13,1st Half Asian Handicap,(0-1) Deportivo Hualgayoc 0.0,Deportivo Hualgayoc v Sport Loreto,1.275,193,246.07
+04/06/2017 20:17:58,Asian Handicap In-Play,(0-0) Cosenza 0.0,Cosenza v Pordenone,1.6,193,193
+04/06/2017 20:46:57,Asian Handicap In-Play,(1-0) Ponte Preta 0.0,Ponte Preta v Sao Paulo,2.35,193,193
+04/06/2017 20:09:57,Asian Handicap In-Play,(1-2) Montenegro 0.0,Montenegro v Iran,1.3,193,193
+04/06/2017 19:41:57,Asian Handicap In-Play,(1-2) Rayo Vallecano 0.0,Rayo Vallecano v Cordoba,1.4,155,155
+04/06/2017 19:41:28,Asian Handicap In-Play,(2-2) Mallorca 0.0,Mirandes v Mallorca,1.575,170,170
+04/06/2017 19:40:57,Asian Handicap In-Play,(0-0) Huesca 0.0,Huesca v Numancia,1.18,170,170
+04/06/2017 19:39:13,1st Half Asian Handicap,(0-0) Aparecida GO 0.0,Aparecida GO v Associacao Esportiva Evangelica,1.75,165,165
+04/06/2017 19:36:43,1st Half Asian Handicap,(0-0) Palmeiras 0.0,Palmeiras v Atletico Mineiro,1.425,164,164
+04/06/2017 19:39:27,Asian Handicap In-Play,(0-1) Tenerife 0.0,Tenerife v Gimnastic,1.28,164,164
+04/06/2017 19:33:57,Asian Handicap In-Play,(1-0) Oviedo 0.0,Oviedo v Sevilla Atletico,1.375,181,181
+04/06/2017 19:33:13,1st Half Asian Handicap,(0-1) Platense Women 0.0,+0.5,Platense Women v San Lorenzo Women,1.525,181,228.51
+04/06/2017 19:34:27,Asian Handicap In-Play,(0-1) FC Voluntari 0.0,FC Voluntari v CS Concordia Chiajna,1.925,165,165
+04/06/2017 19:31:57,Asian Handicap In-Play,(0-0) Odd BK 0.0,Odd BK v SK Brann,1.7,182,182
+04/06/2017 19:01:43,1st Half Asian Handicap,(0-1) Montenegro 0.0,Montenegro v Iran,1.7,177,300.9
+04/06/2017 19:13:13,1st Half Asian Handicap,(0-0) Cosenza 0.0,Cosenza v Pordenone,1.675,188,188
+04/06/2017 18:56:27,Asian Handicap In-Play,(0-1) Independiente Medellin U19 0.0,Independiente Medellin U19 v Total Soccer U19,1.475,177,177
+04/06/2017 18:43:57,Asian Handicap In-Play,(1-0) CD Clan Juvenil 0.0,CD Clan Juvenil v Deportivo Cuenca,1.525,137,208.92
+04/06/2017 19:31:27,Asian Handicap In-Play,(0-1) UCAM Murcia CF 0.0,UCAM Murcia CF v Alcorcon,1.625,182,182
+04/06/2017 18:36:43,1st Half Asian Handicap,(1-0) Oviedo 0.0,Oviedo v Sevilla Atletico,1.45,187,187
+04/06/2017 18:01:28,Asian Handicap In-Play,(1-0) Mamahira AC De Kati 0.0,Mamahira AC De Kati v Sonni AC,1.425,188,188
+04/06/2017 18:24:13,1st Half Asian Handicap,(0-0) UCAM Murcia CF 0.0,UCAM Murcia CF v Alcorcon,1.575,188,0
+04/06/2017 17:42:58,Asian Handicap In-Play,(1-1) Viking FK 0.0,Viking FK v Kristiansund BK,1.425,178,253.65
+04/06/2017 17:38:57,Asian Handicap In-Play,(0-3) Ullensaker/Kisa 0.0,Ullensaker/Kisa v Kongsvinger,1.45,170,170
+04/06/2017 18:35:43,1st Half Asian Handicap,(0-0) FC Botosani 0.0,FC Botosani v Pandurii Targu Jiu,1.5,188,188
+04/06/2017 17:38:28,Asian Handicap In-Play,(0-2) Jagiellonia Bialystok 0.0,Jagiellonia Bialystok v Lech Poznan,1.7,171,290.7
+04/06/2017 17:33:43,1st Half Asian Handicap,(1-0) Valur Reykjavik 0.0,Valur Reykjavik v IBV Vestmannaeyjar,1.475,172,0
+04/06/2017 17:34:58,Asian Handicap In-Play,(0-0) US Goree 0.0,US Goree v ASEC Ndiambour,1.8,171,0
+04/06/2017 16:50:27,Asian Handicap In-Play,(0-1) Independiente Santa Fe Women 0.0,Atletico Bucaramanga Women v Independiente Santa Fe Women,1.375,194,194
+04/06/2017 16:42:13,1st Half Asian Handicap,(0-0) Varda SE 0.0,Balmazujvarosi FC v Varda SE,2.1,101,101
+04/06/2017 16:38:13,1st Half Asian Handicap,(0-0) Legia Warsaw 0.0,Legia Warsaw v Lechia Gdansk,1.35,121,121
+04/06/2017 17:11:27,Asian Handicap In-Play,(1-2) KuPS Kuopio 0.0,KuPS Kuopio v IFK Mariehamn,1.5,201,201
+04/06/2017 16:37:13,1st Half Asian Handicap,(2-0) Rosenborg 0.0,Rosenborg v Stromsgodset,1.375,121,121
+04/06/2017 16:33:43,1st Half Asian Handicap,(0-0) Viborg 0.0,Viborg v FC Helsingor,1.475,121,121
+04/06/2017 16:32:43,1st Half Asian Handicap,(0-0) Sarpsborg 0.0,Sarpsborg v Molde,1.425,121,121
+04/06/2017 16:28:13,1st Half Asian Handicap,(0-0) US Goree 0.0,US Goree v ASEC Ndiambour,1.725,129,129
+04/06/2017 16:27:13,1st Half Asian Handicap,(0-0) Lecce 0.0,Alessandria v Lecce,1.775,129,129
+04/06/2017 16:01:43,1st Half Asian Handicap,(0-1) KuPS Kuopio 0.0,KuPS Kuopio v IFK Mariehamn,1.5,194,194
+04/06/2017 15:42:43,1st Half Asian Handicap,(0-0) Shakhter Soligorsk 0.0,Shakhter Soligorsk v FC Vitebsk,1.425,129,183.82
+04/06/2017 15:38:27,Asian Handicap In-Play,(1-1) Vendsyssel FF 0.0,Vendsyssel FF v AC Horsens,2.2,165,0
+04/06/2017 16:10:13,1st Half Asian Handicap,(0-1) HJK Helsinki 0.0,RoPS v HJK Helsinki,1.26,194,194
+04/06/2017 15:35:57,Asian Handicap In-Play,(1-0) Finnsnes IL 0.0,Alta v Finnsnes IL,1.85,165,165
+04/06/2017 15:32:13,1st Half Asian Handicap,(0-1) FK Druzstevnik Plavnica 0.0,FK Druzstevnik Plavnica v FK Svidnik,1.625,166,166
+04/06/2017 15:33:13,1st Half Asian Handicap,(0-0) Ashanti Gold 0.0,Ashanti Gold v Ebusua Dwarfs,1.45,165,239.25
+04/06/2017 16:41:27,Asian Handicap In-Play,(0-0) Elmina Sharks 0.0,Elmina Sharks v Medeama SC,1.75,107,187.25
+04/06/2017 15:31:44,1st Half Asian Handicap,(0-0) Enyimba 0.0,Enyimba v Plateau United,1.325,166,166
+04/06/2017 14:48:27,Asian Handicap In-Play,(1-2) Trabzon Idmanocagi Women 0.0,+0.5,Trabzon Idmanocagi Women v Konak Bel Women,1.45,210,257.25
+04/06/2017 15:08:57,Asian Handicap In-Play,(1-0) Persib Bandung 0.0,Bhayangkara Surabaya United v Persib Bandung,1.6,217,0
+04/06/2017 14:44:27,Asian Handicap In-Play,(0-2) Uniao FC 0.0,Uniao FC v Manthiqueira SP,1.725,182,313.95
+04/06/2017 14:39:43,1st Half Asian Handicap,(0-0) FF Jaro 0.0,FF Jaro v FC Haka,1.325,203,203
+04/06/2017 14:26:13,1st Half Asian Handicap,(0-0) FC Sochi 0.0,FC Sochi v Krasnodar II,1.525,221,0
+04/06/2017 13:42:43,1st Half Asian Handicap,(1-1) Paide Linnameeskond II 0.0,Paide Linnameeskond II v JK Sillamae Kalev II,1.45,201,201
+04/06/2017 13:31:43,1st Half Asian Handicap,(0-0) Egersund 0.0,Egersund v Vard Haugesund,1.475,221,221
+04/06/2017 11:46:28,Asian Handicap In-Play,(0-1) Atletico Baleares 0.0,Atletico Baleares v Albacete,1.8,188,338.4
+04/06/2017 11:36:58,Asian Handicap In-Play,(1-2) Tartu FC Santos 0.0,Tartu FC Santos v JK Tallinna Kalev,1.925,207,207
+04/06/2017 10:46:28,Asian Handicap In-Play,(0-1) Surin City FC 0.0,Surin City FC v Muang Loei United,1.725,206,206
+04/06/2017 11:12:13,1st Half Asian Handicap,(0-0) Miedz Legnica 0.0,Miedz Legnica v Sandecja Nowy Sacz,1.55,207,207
+04/06/2017 10:41:57,Asian Handicap In-Play,(1-0) Huragan Morag 0.0,Lechia Tomaszow Mazowiecki v Huragan Morag,2.025,227,0
+04/06/2017 10:35:30,Asian Handicap In-Play,(2-2) Portugal U20 0.0,Portugal U20 v Uruguay U20,1.8,227,227
+04/06/2017 09:41:57,Asian Handicap In-Play,(1-0) Kawasaki Frontale 0.0,Yokohama F-Marinos v Kawasaki Frontale,1.65,228,0
+04/06/2017 09:25:12,1st Half Asian Handicap,(0-0) Surin City FC 0.0,Surin City FC v Muang Loei United,1.65,226,226
+04/06/2017 09:18:57,Asian Handicap In-Play,(1-1) Changchun Yatai 0.0,Changchun Yatai v Guizhou Hengfeng Zhicheng,1.225,248,248
+04/06/2017 08:37:42,1st Half Asian Handicap,(0-0) Kaya FC 0.0,Kaya FC v Stallions FC,1.375,240,330
+04/06/2017 06:48:01,Asian Handicap In-Play,(1-3) Sanfrecce Hiroshima 0.0,Sanfrecce Hiroshima v Kashima Antlers,1.925,239,239
+04/06/2017 07:48:58,Asian Handicap In-Play,(2-3) Glenorchy Knights FC 0.0,Glenorchy Knights FC v Beachside FC,1.525,240,240
+04/06/2017 06:28:42,1st Half Asian Handicap,(0-0) Vegalta Sendai 0.0,Vegalta Sendai v Ventforet Kofu,1.5,210,315
+04/06/2017 06:25:45,1st Half Asian Handicap,(0-0) Venezuela U20 0.0,Venezuela U20 v USA U20,1.475,230,230
+04/06/2017 04:31:28,Asian Handicap In-Play,(0-1) Shizuoka Sangyo University Women 0.0,Shizuoka Sangyo University Women v Fukuoka J Anclas Women,1.8,230,230
+04/06/2017 03:46:57,Asian Handicap In-Play,(0-1) San Francisco Deltas 0.0,San Francisco Deltas v Indy Eleven,1.5,220,330
+04/06/2017 02:36:42,1st Half Asian Handicap,(0-0) San Francisco Deltas 0.0,San Francisco Deltas v Indy Eleven,1.55,220,220
+04/06/2017 02:35:12,1st Half Asian Handicap,(0-0) Seattle Sounders II 0.0,Seattle Sounders II v LA Galaxy II,1.65,220,220
+04/06/2017 01:16:58,Asian Handicap In-Play,(1-2) Peachtree City 0.0,Peachtree City v Nashville SC II,2.675,220,220
+04/06/2017 00:46:58,Asian Handicap In-Play,(0-0) Cincinnati Dutch Lions 0.0,Cincinnati Dutch Lions v St Louis Lions,2.075,201,417.07
+04/06/2017 00:13:42,1st Half Asian Handicap,(0-0) Montreal Impact 0.0,Montreal Impact v New York Red Bulls,1.75,194,194
+04/06/2017 00:09:28,Asian Handicap In-Play,(1-1) Union Santa Fe 0.0,Union Santa Fe v Newell's,1.4,194,271.6
+03/06/2017 23:42:28,Asian Handicap In-Play,(0-1) Audax SP 0.0,Audax SP v URT MG,1.6,194,194
+03/06/2017 22:16:58,Asian Handicap In-Play,(1-1) CD Coopsol 0.0,CD Coopsol v Sport Ancash,1.17,194,194
+03/06/2017 22:27:42,1st Half Asian Handicap,(0-0) Corinthians 0.0,Corinthians v Santos,1.575,194,194
+03/06/2017 21:38:43,1st Half Asian Handicap,(1-0) Smouha 0.0,Smouha v Al Hilal Obied,1.5,194,194
+03/06/2017 18:47:58,Asian Handicap In-Play,(3-3) SD Aucas 0.0,SD Aucas v Gualaceo SC,2.2,165,363
+03/06/2017 18:31:53,1st Half Asian Handicap,(0-0) Danubio 0.0,Danubio v Nacional De Football,1.95,181,0
+03/06/2017 20:36:43,1st Half Asian Handicap,(0-0) Deportivo Municipal 0.0,Deportivo Municipal v UTC Cajamarca,1.5,194,194
+03/06/2017 17:11:57,Asian Handicap In-Play,(0-2) NK Zadar 0.0,NK Zadar v Zmaj Blato,2.75,199,0
+03/06/2017 21:03:28,Asian Handicap In-Play,(0-0) Luverdense 0.0,Luverdense v Criciuma,1.575,194,194
+03/06/2017 20:02:43,1st Half Asian Handicap,(0-0) Vila Nova 0.0,Vila Nova v Guarani SP,1.675,183,306.52
+03/06/2017 20:31:43,1st Half Asian Handicap,(0-0) RB Brasil 0.0,RB Brasil v Boavista RJ,1.5,194,194
