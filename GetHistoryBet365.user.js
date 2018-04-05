@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GetHistoryBet365
 // @namespace    http://tampermonkey.net/
-// @version      0.1.2
+// @version      0.1.3
 // @description  Envia as informações sobre as apostas para um endereço onde são concatenadas
 // @author       You
 // @match        https://members.365sport365.com/Members/Services/History/SportsHistory/HistorySearch/*
@@ -35,13 +35,15 @@ getInfo=function(id,bash){
 loop=setInterval(function(){
     if($('.bet365-show-more').css('display')=='none'){
         clearInterval(loop);
+	    
+	$('[data-bash]').each(function(){
+             getInfo($(this).attr('data-betid'),$(this).attr('data-bash')  );
+        });
     }
     else{
         $('.bet365-show-more-button-arrow').click();
 
-        $('[data-bash]').each(function(){
-             getInfo($(this).attr('data-betid'),$(this).attr('data-bash')  );
-        });
+
     }
 
 },5000);
